@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "2c4d5cfc-b0c1-43e3-825c-ca37c36e7fdf",
+      "avatarUrl": "/images/avatar2.jpg",
+      "firstName": "dada",
+      "lastName": "dadad",
+      "email": "dadada",
+      "birthDate": "2023-11-05",
+      "department": "human resource"
+    }
+  ]
+}
